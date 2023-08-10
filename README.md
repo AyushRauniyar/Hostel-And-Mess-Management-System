@@ -22,3 +22,4 @@ To get started with this project, follow these steps:
 
 2. **Use SQL Features:** Study the use of advanced SQL features such as ER modeling, procedures, views, functions, and triggers within the project to understand their implementation.
 
+Thank you for exploring the IRIS Hostel And Mess Management System (SQL) project!
